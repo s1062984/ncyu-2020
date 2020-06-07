@@ -1,6 +1,6 @@
-Example 6:
+﻿Example 6:
 
-1. 依照投影片描述做修改
+1. 
 
 2. 完成後, 在GITHUB_PROJECT資料夾下, 執行以下指令
 
